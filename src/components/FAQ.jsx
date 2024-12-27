@@ -7,6 +7,16 @@ const faqData = [
       "We provide software development, web development, mobile app development, and IoT solutions.",
   },
   {
+    question: "What services does Barey Technology offer?",
+    answer:
+      "We provide software development, web development, mobile app development, and IoT solutions.",
+  },
+  {
+    question: "How do you ensure project quality?",
+    answer:
+      "We adhere to industry standards, employ rigorous QA processes, and involve clients in each stage.",
+  },
+  {
     question: "How do you ensure project quality?",
     answer:
       "We adhere to industry standards, employ rigorous QA processes, and involve clients in each stage.",
